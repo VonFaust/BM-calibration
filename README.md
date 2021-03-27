@@ -1,4 +1,4 @@
-# World-BM-monthly-from-12-98---02-21
+# World-BM calibration 
 World BM
 
 ######################################################################################################
@@ -26,3 +26,7 @@ NDDUWI - MSCI World TR Net (Forign Equity not us and not ortec)
 RMZ N- real estate global both direct and indirect -us (compare with rms)
 
 ######################################################################################################
+
+Useful data:
+
+https://fred.stlouisfed.org/categories/94
