@@ -30,3 +30,5 @@ RMZ N- real estate global both direct and indirect -us (compare with rms)
 Useful data:
 
 https://fred.stlouisfed.org/categories/94
+
+https://pandas-datareader.readthedocs.io/en/latest/remote_data.html
