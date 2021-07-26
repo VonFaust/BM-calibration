@@ -25,6 +25,8 @@ NDDUWI - MSCI World TR Net (Forign Equity not us and not ortec)
 
 RMZ N- real estate global both direct and indirect -us (compare with rms)
 
+Israel Rates - Israeli interest rates for different ratings 
+
 ######################################################################################################
 
 Useful data:
