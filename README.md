@@ -27,6 +27,10 @@ RMZ N- real estate global both direct and indirect -us (compare with rms)
 
 Israel Rates - Israeli interest rates for different ratings (Daily)
 
+Linked Corp bonds - https://www.tase.co.il/en/market_data/index/606/graph
+
+Linked Gov - https://www.tase.co.il/he/market_data/index/605/graph
+
 ######################################################################################################
 
 Useful data:
